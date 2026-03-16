@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="115" fill="#4f46e5"/>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap');
+    </style>
+  </defs>
+  <!-- Decorative circles -->
+  <circle cx="420" cy="90" r="80" fill="rgba(255,255,255,0.07)"/>
+  <circle cx="80" cy="420" r="100" fill="rgba(255,255,255,0.05)"/>
+  <!-- W letter mark -->
+  <text x="256" y="230" 
+    font-family="'Trebuchet MS', 'Gill Sans', sans-serif" 
+    font-size="200" 
+    font-weight="900"
+    fill="rgba(255,255,255,0.12)" 
+    text-anchor="middle" 
+    dominant-baseline="middle"
+    letter-spacing="-8">W</text>
+  <!-- WeekFlow text -->
+  <text x="256" y="242" 
+    font-family="'Trebuchet MS', 'Gill Sans', sans-serif" 
+    font-size="86" 
+    font-weight="900"
+    fill="white" 
+    text-anchor="middle" 
+    dominant-baseline="middle"
+    letter-spacing="-2">Week</text>
+  <text x="256" y="330"
+    font-family="'Trebuchet MS', 'Gill Sans', sans-serif"
+    font-size="86"
+    font-weight="200"
+    fill="rgba(255,255,255,0.75)"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    letter-spacing="18">flow</text>
+  <!-- Underline accent -->
+  <rect x="176" y="368" width="160" height="5" rx="2.5" fill="rgba(255,255,255,0.4)"/>
+</svg>
